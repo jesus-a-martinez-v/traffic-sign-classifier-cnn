@@ -1,4 +1,4 @@
-## Project: Build a Traffic Sign Recognition Program
+## Traffic Sign Recognition Program
 ### Overview
 
 In this project we'll build a convolutional neural network for the task of classifying traffic signs, using the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset). After the model is trained, we'll then test it on new images of traffic signs found on the web.
