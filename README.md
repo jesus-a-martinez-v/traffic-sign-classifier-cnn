@@ -17,5 +17,5 @@ This project requires **Python 3.5** and the following Python libraries installe
 
 ### Dataset
 
-1. [Download the pickled dataset with already resized the images to 32x32](https://d17h27t6h515a5.cloudfront.net/topher/2016/November/581faac4_traffic-signs-data/traffic-signs-data.zip).
+1. [Download the pickled dataset with already resized images to 32x32](https://d17h27t6h515a5.cloudfront.net/topher/2016/November/581faac4_traffic-signs-data/traffic-signs-data.zip).
 
