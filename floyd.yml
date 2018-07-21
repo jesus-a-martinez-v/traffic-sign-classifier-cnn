@@ -22,10 +22,7 @@
 #    machine: cpu
 #    mode: serve
 
-task:
-  jupyter:
-    mode: jupyter
-    machine: cpu
-    input:
-      - source: jesusamartinezv/datasets/traffic-signs-data/1
-      destination: data
+machine: cpu
+input:
+  - source: jesusamartinezv/datasets/traffic-signs-data/1
+    destination: data
